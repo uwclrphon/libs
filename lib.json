@@ -1,0 +1,9 @@
+[
+    {
+        "name":"cjson",
+        "url":"https://github.com/uwclrphon/comple/releases/download/ahs/cJSON-1.7.18.zip",
+        "zip_name":"cJSON-1.7.18.zip",
+        "pkg_name":"cJSON",
+        "mov_pkg_now":"cJSON\\cJSON-1.7.18"
+    }
+]
