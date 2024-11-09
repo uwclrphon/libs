@@ -5,6 +5,6 @@
         "zip_name":"cJSON-1.7.18.zip",
         "pkg_name":"cJSON",
         "mov_pkg_now":"cJSON\\cJSON-1.7.18",
-        "pkg_main":"cJSON.c"
+        "pkg_main":"cJSON.h"
     }
 ]
